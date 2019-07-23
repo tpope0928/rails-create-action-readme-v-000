@@ -144,3 +144,10 @@ Processing by PostsController#index as HTML
 Completed 200 OK in 14ms (Views: 12.8ms | ActiveRecord: 0.3ms)
 
 
+Started GET "/posts/new" for 69.250.234.128 at 2019-07-23 01:48:40 +0000
+Processing by PostsController#new as HTML
+  Rendering posts/new.html.erb within layouts/application
+  Rendered posts/new.html.erb within layouts/application (1.6ms)
+Completed 200 OK in 17ms (Views: 15.6ms | ActiveRecord: 0.0ms)
+
+
